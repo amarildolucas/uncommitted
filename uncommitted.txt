@@ -1,0 +1,20 @@
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   uncommitted.rb
+	modified:   uncommitted.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   uncommitted.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	Rakefile
+	pkg/
+	uncommitted.gemspec
+
